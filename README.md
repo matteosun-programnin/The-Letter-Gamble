@@ -12,7 +12,7 @@ Edited/Modified By Sunnie(Me)
 ---------------------------------------
 
 
-#How to use - Instructions
+How to use - Instructions
 
 To use this, you need a Python compiler or either Visual Studio Code(Python must be installed in VS Code) to activate a .py file named "thelettergamble.py".
 
